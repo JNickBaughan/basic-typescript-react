@@ -18,7 +18,6 @@ server.get("/", (req: Request, res: Response) => {
       <body>
         <div id="root" />
         <script src="bundle.js"></script>
-        test
       </body>
     </html>
     `)
